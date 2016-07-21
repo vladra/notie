@@ -956,7 +956,7 @@ var notie = (function () {
     date: date,
     isShowing: isShowing
   }
-}())
+})
 
 // Node.js
 if (typeof module === 'object' && module.exports) {
